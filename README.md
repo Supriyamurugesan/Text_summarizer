@@ -19,6 +19,6 @@ This is a simple and powerful **AI-powered text summarization web app** built us
 - **Frontend & Web Interface:** Streamlit
 - **Model & NLP:** Hugging Face Transformers (BART)
 - **Language:** Python
-- **Hosting:** Can be deployed on Streamlit Cloud, Render, or locally
+
 
 
